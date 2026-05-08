@@ -1,2 +1,0 @@
-# valomob
-Valomob guide
